@@ -1,0 +1,361 @@
+Month,Region,Category,Orders,AvgUnitPrice,Revenue
+2025-09,North,Tents & Shelters,36,171.9,6188.44
+2025-09,North,Backpacks,36,89.74,3230.68
+2025-09,North,Footwear,37,118.63,4389.23
+2025-09,North,Clothing,22,50.46,1110.04
+2025-09,North,Camp Kitchen,36,37.75,1358.97
+2025-09,North,Navigation & Safety,39,70.07,2732.92
+2025-09,South,Tents & Shelters,59,185.4,10938.35
+2025-09,South,Backpacks,51,95.85,4888.55
+2025-09,South,Footwear,53,116.81,6190.8
+2025-09,South,Clothing,68,49.57,3370.86
+2025-09,South,Camp Kitchen,57,38.72,2207.15
+2025-09,South,Navigation & Safety,29,65.18,1890.12
+2025-09,Midlands,Tents & Shelters,62,165.34,10251.01
+2025-09,Midlands,Backpacks,46,87.34,4017.53
+2025-09,Midlands,Footwear,61,116.76,7122.17
+2025-09,Midlands,Clothing,34,57.53,1955.92
+2025-09,Midlands,Camp Kitchen,12,39.03,468.34
+2025-09,Midlands,Navigation & Safety,41,70.73,2899.87
+2025-09,Scotland,Tents & Shelters,45,193.02,8685.97
+2025-09,Scotland,Backpacks,25,96.47,2411.74
+2025-09,Scotland,Footwear,37,104.01,3848.51
+2025-09,Scotland,Clothing,35,52.68,1843.91
+2025-09,Scotland,Camp Kitchen,45,36.81,1656.36
+2025-09,Scotland,Navigation & Safety,42,66.89,2809.45
+2025-09,Wales,Tents & Shelters,31,175.33,5435.12
+2025-09,Wales,Backpacks,30,89.48,2684.42
+2025-09,Wales,Footwear,35,113.26,3963.99
+2025-09,Wales,Clothing,64,56.2,3596.83
+2025-09,Wales,Camp Kitchen,46,37.31,1716.13
+2025-09,Wales,Navigation & Safety,54,68.31,3688.87
+2025-10,North,Tents & Shelters,49,182.05,8920.46
+2025-10,North,Backpacks,34,98.51,3349.26
+2025-10,North,Footwear,44,104.04,4577.72
+2025-10,North,Clothing,20,49.85,997.06
+2025-10,North,Camp Kitchen,31,37.69,1168.32
+2025-10,North,Navigation & Safety,42,76.2,3200.43
+2025-10,South,Tents & Shelters,53,185.6,9836.58
+2025-10,South,Backpacks,37,93.02,3441.63
+2025-10,South,Footwear,57,104.83,5975.16
+2025-10,South,Clothing,38,52.21,1984.09
+2025-10,South,Camp Kitchen,36,40.68,1464.36
+2025-10,South,Navigation & Safety,41,75.57,3098.35
+2025-10,Midlands,Tents & Shelters,38,197.91,7520.63
+2025-10,Midlands,Backpacks,50,95.18,4759.05
+2025-10,Midlands,Footwear,48,101.41,4867.79
+2025-10,Midlands,Clothing,47,56.4,2650.89
+2025-10,Midlands,Camp Kitchen,49,36.51,1788.9
+2025-10,Midlands,Navigation & Safety,32,68.34,2186.97
+2025-10,Scotland,Tents & Shelters,47,196.96,9257.06
+2025-10,Scotland,Backpacks,34,101.85,3463.06
+2025-10,Scotland,Footwear,50,114.0,5699.88
+2025-10,Scotland,Clothing,36,55.41,1994.64
+2025-10,Scotland,Camp Kitchen,33,36.89,1217.45
+2025-10,Scotland,Navigation & Safety,49,69.09,3385.25
+2025-10,Wales,Tents & Shelters,11,193.53,2128.84
+2025-10,Wales,Backpacks,42,90.5,3801.18
+2025-10,Wales,Footwear,28,119.08,3334.18
+2025-10,Wales,Clothing,34,59.08,2008.57
+2025-10,Wales,Camp Kitchen,30,40.87,1226.15
+2025-10,Wales,Navigation & Safety,48,65.14,3126.71
+2025-11,North,Tents & Shelters,28,190.03,5320.86
+2025-11,North,Backpacks,18,95.58,1720.38
+2025-11,North,Footwear,35,99.43,3480.0
+2025-11,North,Clothing,28,59.72,1672.16
+2025-11,North,Camp Kitchen,38,38.46,1461.48
+2025-11,North,Navigation & Safety,17,63.81,1084.79
+2025-11,South,Tents & Shelters,54,165.08,8914.51
+2025-11,South,Backpacks,18,94.73,1705.21
+2025-11,South,Footwear,52,115.85,6024.11
+2025-11,South,Clothing,43,50.91,2189.23
+2025-11,South,Camp Kitchen,23,38.12,876.77
+2025-11,South,Navigation & Safety,38,75.21,2858.13
+2025-11,Midlands,Tents & Shelters,30,181.41,5442.44
+2025-11,Midlands,Backpacks,39,99.37,3875.38
+2025-11,Midlands,Footwear,39,120.89,4714.84
+2025-11,Midlands,Clothing,44,56.65,2492.54
+2025-11,Midlands,Camp Kitchen,24,36.97,887.23
+2025-11,Midlands,Navigation & Safety,41,66.15,2711.98
+2025-11,Scotland,Tents & Shelters,22,170.28,3746.25
+2025-11,Scotland,Backpacks,37,89.68,3318.31
+2025-11,Scotland,Footwear,38,104.04,3953.4
+2025-11,Scotland,Clothing,32,59.46,1902.71
+2025-11,Scotland,Camp Kitchen,29,37.9,1099.22
+2025-11,Scotland,Navigation & Safety,25,72.37,1809.14
+2025-11,Wales,Tents & Shelters,28,195.68,5479.0
+2025-11,Wales,Backpacks,32,96.35,3083.19
+2025-11,Wales,Footwear,14,116.76,1634.71
+2025-11,Wales,Clothing,30,51.59,1547.84
+2025-11,Wales,Camp Kitchen,34,39.39,1339.21
+2025-11,Wales,Navigation & Safety,32,69.54,2225.23
+2025-12,North,Tents & Shelters,42,197.43,8292.06
+2025-12,North,Backpacks,26,87.37,2271.62
+2025-12,North,Footwear,35,117.96,4128.49
+2025-12,North,Clothing,52,52.24,2716.23
+2025-12,North,Camp Kitchen,50,39.38,1968.75
+2025-12,North,Navigation & Safety,58,66.9,3880.18
+2025-12,South,Tents & Shelters,59,177.95,10499.21
+2025-12,South,Backpacks,97,101.87,9880.97
+2025-12,South,Footwear,53,120.98,6412.16
+2025-12,South,Clothing,57,58.7,3345.69
+2025-12,South,Camp Kitchen,97,42.79,4150.59
+2025-12,South,Navigation & Safety,51,65.33,3331.75
+2025-12,Midlands,Tents & Shelters,47,176.44,8292.56
+2025-12,Midlands,Backpacks,60,86.61,5196.84
+2025-12,Midlands,Footwear,23,104.83,2411.19
+2025-12,Midlands,Clothing,92,58.12,5347.48
+2025-12,Midlands,Camp Kitchen,42,43.66,1833.66
+2025-12,Midlands,Navigation & Safety,64,76.94,4923.9
+2025-12,Scotland,Tents & Shelters,26,167.57,4356.89
+2025-12,Scotland,Backpacks,38,91.14,3463.22
+2025-12,Scotland,Footwear,62,110.93,6877.55
+2025-12,Scotland,Clothing,42,57.73,2424.56
+2025-12,Scotland,Camp Kitchen,61,40.02,2441.39
+2025-12,Scotland,Navigation & Safety,51,74.94,3821.84
+2025-12,Wales,Tents & Shelters,63,164.88,10387.69
+2025-12,Wales,Backpacks,73,89.03,6499.24
+2025-12,Wales,Footwear,29,104.17,3021.06
+2025-12,Wales,Clothing,34,50.82,1727.84
+2025-12,Wales,Camp Kitchen,53,40.76,2160.08
+2025-12,Wales,Navigation & Safety,39,71.67,2795.18
+2026-01,North,Tents & Shelters,16,180.82,2893.12
+2026-01,North,Backpacks,29,103.26,2994.52
+2026-01,North,Footwear,27,104.25,2814.78
+2026-01,North,Clothing,35,53.85,1884.88
+2026-01,North,Camp Kitchen,21,38.53,809.12
+2026-01,North,Navigation & Safety,19,73.53,1397.0
+2026-01,South,Tents & Shelters,40,197.94,7917.77
+2026-01,South,Backpacks,36,104.43,3759.33
+2026-01,South,Footwear,37,104.83,3878.87
+2026-01,South,Clothing,34,59.77,2032.04
+2026-01,South,Camp Kitchen,45,38.96,1753.03
+2026-01,South,Navigation & Safety,19,65.21,1238.96
+2026-01,Midlands,Tents & Shelters,38,184.02,6992.78
+2026-01,Midlands,Backpacks,19,104.26,1980.89
+2026-01,Midlands,Footwear,31,116.98,3626.27
+2026-01,Midlands,Clothing,30,52.79,1583.79
+2026-01,Midlands,Camp Kitchen,20,37.07,741.49
+2026-01,Midlands,Navigation & Safety,13,64.62,840.01
+2026-01,Scotland,Tents & Shelters,31,171.8,5325.94
+2026-01,Scotland,Backpacks,30,96.99,2909.75
+2026-01,Scotland,Footwear,23,112.95,2597.92
+2026-01,Scotland,Clothing,19,52.4,995.67
+2026-01,Scotland,Camp Kitchen,9,42.77,384.92
+2026-01,Scotland,Navigation & Safety,25,64.29,1607.3
+2026-01,Wales,Tents & Shelters,19,162.13,3080.43
+2026-01,Wales,Backpacks,27,100.15,2704.08
+2026-01,Wales,Footwear,20,115.31,2306.14
+2026-01,Wales,Clothing,20,55.57,1111.37
+2026-01,Wales,Camp Kitchen,23,36.6,841.84
+2026-01,Wales,Navigation & Safety,24,75.36,1808.72
+2026-02,North,Tents & Shelters,34,192.05,6529.54
+2026-02,North,Backpacks,20,96.57,1931.35
+2026-02,North,Footwear,28,105.78,2961.89
+2026-02,North,Clothing,29,59.39,1722.28
+2026-02,North,Camp Kitchen,30,43.19,1295.74
+2026-02,North,Navigation & Safety,11,65.94,725.35
+2026-02,South,Tents & Shelters,34,190.08,6462.86
+2026-02,South,Backpacks,38,102.3,3887.35
+2026-02,South,Footwear,22,102.4,2252.8
+2026-02,South,Clothing,41,59.73,2448.88
+2026-02,South,Camp Kitchen,51,42.49,2166.79
+2026-02,South,Navigation & Safety,14,75.34,1054.76
+2026-02,Midlands,Tents & Shelters,49,173.96,8523.98
+2026-02,Midlands,Backpacks,36,103.19,3714.68
+2026-02,Midlands,Footwear,40,116.84,4673.46
+2026-02,Midlands,Clothing,15,52.43,786.52
+2026-02,Midlands,Camp Kitchen,35,42.98,1504.21
+2026-02,Midlands,Navigation & Safety,29,75.02,2175.59
+2026-02,Scotland,Tents & Shelters,28,178.57,4999.99
+2026-02,Scotland,Backpacks,39,91.3,3560.65
+2026-02,Scotland,Footwear,27,99.52,2687.06
+2026-02,Scotland,Clothing,21,51.62,1084.11
+2026-02,Scotland,Camp Kitchen,19,43.74,830.97
+2026-02,Scotland,Navigation & Safety,39,66.91,2609.4
+2026-02,Wales,Tents & Shelters,21,197.32,4143.75
+2026-02,Wales,Backpacks,20,95.69,1913.76
+2026-02,Wales,Footwear,29,120.35,3490.12
+2026-02,Wales,Clothing,24,51.46,1235.14
+2026-02,Wales,Camp Kitchen,31,36.87,1142.88
+2026-02,Wales,Navigation & Safety,24,69.08,1658.01
+2026-03,North,Tents & Shelters,32,183.82,5882.35
+2026-03,North,Backpacks,25,95.22,2380.43
+2026-03,North,Footwear,23,104.6,2405.89
+2026-03,North,Clothing,41,57.3,2349.16
+2026-03,North,Camp Kitchen,54,40.31,2176.61
+2026-03,North,Navigation & Safety,33,73.07,2411.38
+2026-03,South,Tents & Shelters,42,175.11,7354.7
+2026-03,South,Backpacks,24,86.83,2083.91
+2026-03,South,Footwear,37,105.91,3918.53
+2026-03,South,Clothing,33,58.83,1941.33
+2026-03,South,Camp Kitchen,41,38.47,1577.45
+2026-03,South,Navigation & Safety,32,68.72,2198.96
+2026-03,Midlands,Tents & Shelters,34,166.58,5663.8
+2026-03,Midlands,Backpacks,49,93.49,4580.94
+2026-03,Midlands,Footwear,60,118.86,7131.7
+2026-03,Midlands,Clothing,36,56.27,2025.74
+2026-03,Midlands,Camp Kitchen,38,36.0,1368.12
+2026-03,Midlands,Navigation & Safety,57,67.02,3819.96
+2026-03,Scotland,Tents & Shelters,21,185.57,3896.96
+2026-03,Scotland,Backpacks,38,94.33,3584.72
+2026-03,Scotland,Footwear,27,109.41,2954.07
+2026-03,Scotland,Clothing,35,59.41,2079.45
+2026-03,Scotland,Camp Kitchen,34,36.68,1247.06
+2026-03,Scotland,Navigation & Safety,27,70.22,1895.84
+2026-03,Wales,Tents & Shelters,27,191.46,5169.51
+2026-03,Wales,Backpacks,26,99.77,2594.06
+2026-03,Wales,Footwear,30,103.38,3101.43
+2026-03,Wales,Clothing,27,49.77,1343.75
+2026-03,Wales,Camp Kitchen,33,42.8,1412.33
+2026-03,Wales,Navigation & Safety,44,64.02,2816.86
+2026-04,North,Tents & Shelters,26,169.0,4393.99
+2026-04,North,Backpacks,48,98.73,4739.08
+2026-04,North,Footwear,31,113.43,3516.43
+2026-04,North,Clothing,40,49.56,1982.44
+2026-04,North,Camp Kitchen,40,36.85,1474.11
+2026-04,North,Navigation & Safety,20,68.95,1379.04
+2026-04,South,Tents & Shelters,69,180.65,12464.61
+2026-04,South,Backpacks,85,86.45,7348.6
+2026-04,South,Footwear,52,109.04,5670.19
+2026-04,South,Clothing,81,58.32,4723.56
+2026-04,South,Camp Kitchen,30,40.76,1222.91
+2026-04,South,Navigation & Safety,13,76.3,991.91
+2026-04,Midlands,Tents & Shelters,68,187.89,12776.78
+2026-04,Midlands,Backpacks,39,95.09,3708.54
+2026-04,Midlands,Footwear,61,118.74,7243.05
+2026-04,Midlands,Clothing,35,57.68,2018.81
+2026-04,Midlands,Camp Kitchen,40,37.98,1519.12
+2026-04,Midlands,Navigation & Safety,54,71.93,3884.07
+2026-04,Scotland,Tents & Shelters,41,184.56,7567.08
+2026-04,Scotland,Backpacks,26,90.72,2358.65
+2026-04,Scotland,Footwear,48,104.98,5038.93
+2026-04,Scotland,Clothing,44,53.02,2332.74
+2026-04,Scotland,Camp Kitchen,34,37.85,1286.9
+2026-04,Scotland,Navigation & Safety,38,72.72,2763.18
+2026-04,Wales,Tents & Shelters,39,176.67,6890.27
+2026-04,Wales,Backpacks,36,95.81,3449.15
+2026-04,Wales,Footwear,33,108.24,3572.02
+2026-04,Wales,Clothing,44,59.45,2615.94
+2026-04,Wales,Camp Kitchen,24,42.85,1028.49
+2026-04,Wales,Navigation & Safety,31,73.72,2285.27
+2026-05,North,Tents & Shelters,44,174.66,7685.19
+2026-05,North,Backpacks,46,99.82,4591.54
+2026-05,North,Footwear,64,108.22,6925.98
+2026-05,North,Clothing,19,57.72,1096.73
+2026-05,North,Camp Kitchen,28,37.76,1057.4
+2026-05,North,Navigation & Safety,40,66.07,2642.88
+2026-05,South,Tents & Shelters,55,174.1,9575.54
+2026-05,South,Backpacks,60,98.4,5904.22
+2026-05,South,Footwear,50,109.28,5464.13
+2026-05,South,Clothing,64,50.9,3257.85
+2026-05,South,Camp Kitchen,56,39.15,2192.52
+2026-05,South,Navigation & Safety,56,70.9,3970.48
+2026-05,Midlands,Tents & Shelters,83,166.89,13851.47
+2026-05,Midlands,Backpacks,63,94.27,5939.15
+2026-05,Midlands,Footwear,74,103.66,7670.58
+2026-05,Midlands,Clothing,64,53.1,3398.1
+2026-05,Midlands,Camp Kitchen,60,42.02,2520.96
+2026-05,Midlands,Navigation & Safety,42,74.65,3135.17
+2026-05,Scotland,Tents & Shelters,45,162.7,7321.4
+2026-05,Scotland,Backpacks,50,95.75,4787.45
+2026-05,Scotland,Footwear,57,113.3,6458.28
+2026-05,Scotland,Clothing,45,58.09,2614.21
+2026-05,Scotland,Camp Kitchen,32,43.6,1395.1
+2026-05,Scotland,Navigation & Safety,27,65.79,1776.36
+2026-05,Wales,Tents & Shelters,52,166.54,8660.29
+2026-05,Wales,Backpacks,46,98.22,4518.11
+2026-05,Wales,Footwear,37,114.39,4232.36
+2026-05,Wales,Clothing,41,57.94,2375.37
+2026-05,Wales,Camp Kitchen,54,41.98,2267.1
+2026-05,Wales,Navigation & Safety,60,64.6,3876.21
+2026-06,North,Tents & Shelters,64,165.89,10617.06
+2026-06,North,Backpacks,16,85.99,1375.81
+2026-06,North,Footwear,41,120.08,4923.27
+2026-06,North,Clothing,68,53.86,3662.7
+2026-06,North,Camp Kitchen,47,41.52,1951.67
+2026-06,North,Navigation & Safety,43,71.78,3086.6
+2026-06,South,Tents & Shelters,88,192.61,16949.73
+2026-06,South,Backpacks,82,96.91,7946.44
+2026-06,South,Footwear,101,116.22,11738.02
+2026-06,South,Clothing,99,53.32,5278.6
+2026-06,South,Camp Kitchen,47,40.05,1882.24
+2026-06,South,Navigation & Safety,71,67.78,4812.18
+2026-06,Midlands,Tents & Shelters,83,165.8,13761.35
+2026-06,Midlands,Backpacks,36,103.75,3735.18
+2026-06,Midlands,Footwear,41,114.56,4696.99
+2026-06,Midlands,Clothing,37,54.29,2008.74
+2026-06,Midlands,Camp Kitchen,58,38.16,2213.32
+2026-06,Midlands,Navigation & Safety,16,74.31,1189.04
+2026-06,Scotland,Tents & Shelters,33,177.68,5863.46
+2026-06,Scotland,Backpacks,45,99.39,4472.53
+2026-06,Scotland,Footwear,45,117.28,5277.42
+2026-06,Scotland,Clothing,76,50.45,3834.45
+2026-06,Scotland,Camp Kitchen,56,39.72,2224.19
+2026-06,Scotland,Navigation & Safety,41,71.54,2933.33
+2026-06,Wales,Tents & Shelters,46,192.63,8861.18
+2026-06,Wales,Backpacks,51,88.95,4536.7
+2026-06,Wales,Footwear,54,106.49,5750.32
+2026-06,Wales,Clothing,73,59.18,4320.4
+2026-06,Wales,Camp Kitchen,45,36.08,1623.65
+2026-06,Wales,Navigation & Safety,38,76.27,2898.37
+2026-07,North,Tents & Shelters,73,179.59,13109.98
+2026-07,North,Backpacks,64,99.91,6393.93
+2026-07,North,Footwear,44,109.8,4831.12
+2026-07,North,Clothing,32,58.22,1863.11
+2026-07,North,Camp Kitchen,61,41.53,2533.59
+2026-07,North,Navigation & Safety,58,67.29,3902.64
+2026-07,South,Tents & Shelters,49,181.11,8874.55
+2026-07,South,Backpacks,57,93.58,5334.32
+2026-07,South,Footwear,67,114.46,7669.01
+2026-07,South,Clothing,50,52.48,2624.0
+2026-07,South,Camp Kitchen,68,37.54,2552.77
+2026-07,South,Navigation & Safety,78,64.67,5044.55
+2026-07,Midlands,Tents & Shelters,36,168.67,6071.95
+2026-07,Midlands,Backpacks,60,89.61,5376.68
+2026-07,Midlands,Footwear,37,120.49,4457.96
+2026-07,Midlands,Clothing,71,55.27,3924.24
+2026-07,Midlands,Camp Kitchen,66,37.55,2478.49
+2026-07,Midlands,Navigation & Safety,77,66.18,5096.23
+2026-07,Scotland,Tents & Shelters,53,181.23,9605.13
+2026-07,Scotland,Backpacks,54,90.71,4898.44
+2026-07,Scotland,Footwear,71,114.34,8118.37
+2026-07,Scotland,Clothing,49,50.89,2493.56
+2026-07,Scotland,Camp Kitchen,64,42.98,2750.83
+2026-07,Scotland,Navigation & Safety,39,71.04,2770.44
+2026-07,Wales,Tents & Shelters,36,168.64,6070.94
+2026-07,Wales,Backpacks,55,86.48,4756.19
+2026-07,Wales,Footwear,68,117.09,7961.89
+2026-07,Wales,Clothing,46,53.91,2479.76
+2026-07,Wales,Camp Kitchen,71,36.43,2586.45
+2026-07,Wales,Navigation & Safety,61,65.09,3970.41
+2026-08,North,Tents & Shelters,36,197.78,7120.12
+2026-08,North,Backpacks,42,87.75,3685.52
+2026-08,North,Footwear,48,116.4,5587.02
+2026-08,North,Clothing,28,51.98,1455.51
+2026-08,North,Camp Kitchen,32,39.54,1265.34
+2026-08,North,Navigation & Safety,45,75.04,3376.9
+2026-08,South,Tents & Shelters,76,184.36,14011.13
+2026-08,South,Backpacks,60,97.08,5824.98
+2026-08,South,Footwear,58,103.57,6007.14
+2026-08,South,Clothing,18,51.82,932.78
+2026-08,South,Camp Kitchen,55,37.39,2056.48
+2026-08,South,Navigation & Safety,52,64.05,3330.65
+2026-08,Midlands,Tents & Shelters,80,183.38,14670.18
+2026-08,Midlands,Backpacks,61,91.03,5553.07
+2026-08,Midlands,Footwear,64,114.47,7325.81
+2026-08,Midlands,Clothing,88,54.49,4795.5
+2026-08,Midlands,Camp Kitchen,46,42.3,1945.92
+2026-08,Midlands,Navigation & Safety,24,71.75,1722.02
+2026-08,Scotland,Tents & Shelters,30,177.31,5319.15
+2026-08,Scotland,Backpacks,20,95.85,1916.93
+2026-08,Scotland,Footwear,29,117.19,3398.39
+2026-08,Scotland,Clothing,23,50.29,1156.57
+2026-08,Scotland,Camp Kitchen,53,41.99,2225.56
+2026-08,Scotland,Navigation & Safety,57,70.97,4045.23
+2026-08,Wales,Tents & Shelters,45,186.79,8405.66
+2026-08,Wales,Backpacks,54,98.79,5334.93
+2026-08,Wales,Footwear,62,109.86,6811.54
+2026-08,Wales,Clothing,41,50.38,2065.78
+2026-08,Wales,Camp Kitchen,61,38.58,2353.29
+2026-08,Wales,Navigation & Safety,50,66.51,3325.26
